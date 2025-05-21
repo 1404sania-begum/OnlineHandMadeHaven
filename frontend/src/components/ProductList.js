@@ -5,7 +5,7 @@ import "../App.css";
 // Your static categories object
 const categories = {
   "Textile Handicrafts": [
-    { id: 1, name: "Handloom Sarees", image: "saree.jpg", price: 1, quantity: 10, discount: 10 },
+    { id: 1, name: "Handloom Sarees", image: "saree.jpg", price: 1200, quantity: 10, discount: 10 },
     { id: 2, name: "Embroidered Dupattas", image: "dupatta.jpg", price: 500, quantity: 15, discount: 5 },
     { id: 3, name: "Hand-painted Fabrics", image: "fabric.jpg", price: 400, quantity: 20, discount: 8 },
     { id: 4, name: "Quilts & Blankets", image: "quilt.jpg", price: 1500, quantity: 5, discount: 12 },
